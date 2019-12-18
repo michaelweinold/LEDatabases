@@ -6,7 +6,7 @@ List of databases on the performance and cost of LED chips and LED based luminai
 | [US DOE](https://www.energystar.gov/) | [EnergyStar Light Bulbs](https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Light-Bulbs-Version-2-0/ebgj-qsf7/data) | >30,600 | Photometric (incl. CRI), Electric | 2012-now | 🇺🇸 | |
 | [Design Lights Consortium](http://www.designlights.org/) | [SSL](https://www.designlights.org/search/) | ~70,000 | Photometric (incl. CRI), Electric | 20??-now | 🇺🇸 | |
 | [D+R Intl.](https://drintl.com/) under DOE Contract | [Lighting Facts](https://www.lightingfacts.com/Products) | ~10,000 | Photometric (incl. CRI), Electric | 2012-now | 🇺🇸 | Discontinued in 2019 after DOE has deemed its mission a success. |
-| EU | [EPREL](https://webgate.ec.europa.eu/fpfis/wikis/spaces/viewspace.action?key=EPREL) | ? | Photometric (incl. CRI), Electric | 2018/2019-now* | 🇪🇺 |  |
+| EU | [EPREL](https://webgate.ec.europa.eu/fpfis/wikis/spaces/viewspace.action?key=EPREL) | ? | Photometric (incl. CRI), Electric | 2018/2019-now [1] | 🇪🇺 |  |
 | [US DOE](https://www.energy.gov/eere/ssl/caliper) | [CALiPER Product Database](https://cltc.ucdavis.edu/article/led-lamp-database) | ~600 | Photometric (incl. CRI, Flickering), Electric | 2006-2014 | 🇺🇸 | [2] |
 | [California Energy Commission](https://www.energy.ca.gov/) | [Appliances Database](https://cacertappliances.energy.ca.gov/Pages/ApplianceSearch.aspx) | ~3,000 | Photometric (incl. CRI), Electric | 2010-now | 🇺🇸 | |
 | [PassMark Software](https://www.passmark.com/) | [LED Benchmark](http://www.ledbenchmark.com/list.php?thumbnails) | ~400 | Photometric (incl. CRI, Flickering), Electric | 2012-2015 | 🇺🇸 | Discontinued |
@@ -42,6 +42,5 @@ https://www1.eere.energy.gov/buildings/ssl/caliper/SummaryReport.aspx?caliperID=
     ID format: 01-99 and 100-999
 
 
-Michael Weinold\
-University of Cambridge \
-2019-2020
+| Michael Weinold <br> University of Cambridge <br> 2019-2020 |
+| --------------------------- |
