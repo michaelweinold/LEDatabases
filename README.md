@@ -4,7 +4,7 @@ List of databases on the performance and cost of LED chips and LED based luminai
 | Provider | Database | # of Products | Parameters | Date Range | Country | Comments |
 | -------- | -------- | ------------- | ---------- | ---------- | -------- | --------
 | [US DOE](https://www.energystar.gov/) | [EnergyStar Light Bulbs](https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Light-Bulbs-Version-2-0/ebgj-qsf7/data) | >30,600 | Photometric (incl. CRI), Electric | 2012-now | 🇺🇸 | |
-| [Design Lights Consortium](http://www.designlights.org/) | [SSL](https://www.designlights.org/search/) | ~70,000 | Photometric (incl. CRI), Electric | 20??-now | 🇺🇸 | |
+| [Design Lights Consortium](http://www.designlights.org/) | [SSL](https://www.designlights.org/search/) | ~70,000 | Photometric (incl. CRI), Electric | 20??-now | 🇺🇸 | Unstable database GUI, but API access from 10k$/year.  |
 | [D+R Intl.](https://drintl.com/) under DOE Contract | [Lighting Facts](https://www.lightingfacts.com/Products) | ~10,000 | Photometric (incl. CRI), Electric | 2012-now | 🇺🇸 | Discontinued in 2019 after DOE has deemed its mission a success. |
 | EU | [EPREL](https://webgate.ec.europa.eu/fpfis/wikis/spaces/viewspace.action?key=EPREL) | ? | Photometric (incl. CRI), Electric | 2018/2019-now [1] | 🇪🇺 |  |
 | [US DOE](https://www.energy.gov/eere/ssl/caliper) | [CALiPER Product Database](https://cltc.ucdavis.edu/article/led-lamp-database) | ~600 | Photometric (incl. CRI, Flickering), Electric | 2006-2014 | 🇺🇸 | [2] |
@@ -18,6 +18,14 @@ List of databases on the performance and cost of LED chips and LED based luminai
 Other relevant websites:
 
 - Two extensive reviews by the [Indie Cinema Academy](https://indiecinemaacademy.com/): [2015](https://indiecinemaacademy.com/led-color-rendering-database-the-results/) and [2016](https://indiecinemaacademy.com/complete-led-color-database-cri-tlci-cqs-tm30-15/)
+
+Discontinued databases:
+
+| Provider | Database | # of Products | Parameters | Date Range | Country | Comments |
+| -------- | -------- | ------------- | ---------- | ---------- | -------- | --------
+| [UC Davis California Lighting Technology Center](https://cltc.ucdavis.edu/) | [CLTC Database](https://cltc.ucdavis.edu/article/led-lamp-database) | ? | Photometric (incl. CRI), Electric | 2012-2018 | 🇺🇸 | Discontinued due to lack of funding, data no longer available [3]. |
+
+
 
 
 [1] _"From 1 January 2019, their registration must be completed before placing any product on the European market.
@@ -41,6 +49,7 @@ https://www1.eere.energy.gov/buildings/ssl/caliper/SummaryReport.aspx?caliperID=
     YEAR format: 11-16
     ID format: 01-99 and 100-999
 
+[3] Private communication
 
 | Michael Weinold <br> University of Cambridge <br> 2019-2020 |
 | --------------------------- |
