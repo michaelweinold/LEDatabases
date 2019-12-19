@@ -1,6 +1,8 @@
 # LEDatabases
 💡List of databases on the performance and cost of LED chips and LED based luminaires.
 
+### Active databases
+
 | Provider | Database | # of Products | Parameters | Date Range | Country | Comments |
 | -------- | -------- | ------------- | ---------- | ---------- | -------- | --------
 | [US DOE](https://www.energystar.gov/) | [EnergyStar Light Bulbs](https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Light-Bulbs-Version-2-0/ebgj-qsf7/data) | >30,600 | Photometric (incl. CRI), Electric | 2012-now | 🇺🇸 | |
@@ -13,11 +15,11 @@
 | [LTI Optics](http://www.ltioptics.com/en/index.html) | [Photopia Lamp Database](http://www.ltioptics.com/en/library-lamps-details.html) | >700 | Photometric (incl. CRI), Electrical | 2012-now | 🇺🇸 |  |
 | [Johanne Roby](https://www.johanneroby.net/) et al. | [Lamp Spectral Power Distribution Database](http://galileo.graphycs.cegepsherbrooke.qc.ca/app/en/lamps?page=1) | 254 | Photometric (incl. CRI), Electrical | 2012-2016 | 🇨🇦 |  |
 
-Other relevant websites:
+#### Other relevant websites:
 
 - Two extensive reviews by the [Indie Cinema Academy](https://indiecinemaacademy.com/): [2015](https://indiecinemaacademy.com/led-color-rendering-database-the-results/) and [2016](https://indiecinemaacademy.com/complete-led-color-database-cri-tlci-cqs-tm30-15/)
 
-Discontinued databases:
+### Discontinued databases:
 
 | Provider | Database | # of Products | Parameters | Date Range | Country | Comments |
 | -------- | -------- | ------------- | ---------- | ---------- | -------- | --------
