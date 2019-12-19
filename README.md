@@ -1,15 +1,13 @@
-# LEDatabases 💡💾
-List of databases on the performance and cost of LED chips and LED based luminaires.
+# LEDatabases
+💡List of databases on the performance and cost of LED chips and LED based luminaires.
 
 | Provider | Database | # of Products | Parameters | Date Range | Country | Comments |
 | -------- | -------- | ------------- | ---------- | ---------- | -------- | --------
 | [US DOE](https://www.energystar.gov/) | [EnergyStar Light Bulbs](https://data.energystar.gov/Active-Specifications/ENERGY-STAR-Certified-Light-Bulbs-Version-2-0/ebgj-qsf7/data) | >30,600 | Photometric (incl. CRI), Electric | 2012-now | 🇺🇸 | |
 | [Design Lights Consortium](http://www.designlights.org/) | [SSL](https://www.designlights.org/search/) | ~70,000 | Photometric (incl. CRI), Electric | 20??-now | 🇺🇸 | Unstable database GUI, but API access from 10k$/year.  |
-| [D+R Intl.](https://drintl.com/) under DOE Contract | [Lighting Facts](https://www.lightingfacts.com/Products) | ~10,000 | Photometric (incl. CRI), Electric | 2012-now | 🇺🇸 | Discontinued in 2019 after DOE has deemed its mission a success. |
 | EU | [EPREL](https://webgate.ec.europa.eu/fpfis/wikis/spaces/viewspace.action?key=EPREL) | ? | Photometric (incl. CRI), Electric | 2018/2019-now [1] | 🇪🇺 |  |
 | [US DOE](https://www.energy.gov/eere/ssl/caliper) | [CALiPER Product Database](https://cltc.ucdavis.edu/article/led-lamp-database) | ~600 | Photometric (incl. CRI, Flickering), Electric | 2006-2014 | 🇺🇸 | [2] |
 | [California Energy Commission](https://www.energy.ca.gov/) | [Appliances Database](https://cacertappliances.energy.ca.gov/Pages/ApplianceSearch.aspx) | ~3,000 | Photometric (incl. CRI), Electric | 2010-now | 🇺🇸 | |
-| [PassMark Software](https://www.passmark.com/) | [LED Benchmark](http://www.ledbenchmark.com/list.php?thumbnails) | ~400 | Photometric (incl. CRI, Flickering), Electric | 2012-2015 | 🇺🇸 | Discontinued |
 | [DiaLUX Software](https://www.dial.de/en/dialux/) | [LUMSearch](https://lumsearch.com/en-US/) | ~66,000 | Photometric (incl. CRI, Flickering) | ?-now | 🇩🇪 |  |
 | [Kopp Glass](http://www.koppglass.com/) | [UV LED Product Database](http://go.koppglass.com/available-uv-leds-2017-0?submissionGuid=f498e77b-57d6-4974-8198-c46892a87d2a) | >700 | Photometric (incl. CRI), Electrical | ?-now | 🇺🇸 |  |
 | [LTI Optics](http://www.ltioptics.com/en/index.html) | [Photopia Lamp Database](http://www.ltioptics.com/en/library-lamps-details.html) | >700 | Photometric (incl. CRI), Electrical | 2012-now | 🇺🇸 |  |
@@ -23,7 +21,9 @@ Discontinued databases:
 
 | Provider | Database | # of Products | Parameters | Date Range | Country | Comments |
 | -------- | -------- | ------------- | ---------- | ---------- | -------- | --------
+| [D+R Intl.](https://drintl.com/) under DOE Contract | [Lighting Facts](https://www.lightingfacts.com/Products) | ~10,000 | Photometric (incl. CRI), Electric | 2012-now | 🇺🇸 | Discontinued in 2019 after DOE deemed its mission a success. |
 | [UC Davis California Lighting Technology Center](https://cltc.ucdavis.edu/) | [CLTC Database](https://cltc.ucdavis.edu/article/led-lamp-database) | ? | Photometric (incl. CRI), Electric | 2012-2018 | 🇺🇸 | Discontinued due to lack of funding, data no longer available [3]. |
+| [PassMark Software](https://www.passmark.com/) | [LED Benchmark](http://www.ledbenchmark.com/list.php?thumbnails) | ~400 | Photometric (incl. CRI, Flickering), Electric | 2012-2015 | 🇺🇸 | Discontinued |
 
 
 
