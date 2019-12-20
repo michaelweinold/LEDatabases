@@ -45,11 +45,9 @@ with a hyperlink to a PDF file [here](https://www1.eere.energy.gov/buildings/ssl
     YEAR format: 11-16
     ID format: 01-99 and 100-999
 
+[3] Private communication
+
 ### Policy Databases
 | Provider | Database | # of Products | Parameters | Date Range | Country | Comments |
 | -------- | -------- | ------------- | ---------- | ---------- | -------- | --------
-| [CLASP](https://clasp.ngo/) | [Policy Database
-](https://clasp.ngo/policies) | ~400 | Links to Policies, Dates, Categories | <2000-now | 🇺🇸 |  |
-
-
-[3] Private communication
+| [CLASP](https://clasp.ngo/) | [Policy Database](https://clasp.ngo/policies) | ~400 | Links to Policies, Dates, Categories | <2000-now | 🇺🇸 |  |
