@@ -1,5 +1,5 @@
-# LEDatabases
-💡List of databases on the performance and cost of LED chips and LED based luminaires.
+## 💡LEDatabases
+List of databases on the performance and cost of LED chips and LED based luminaires.
 
 ### Active databases
 
@@ -28,30 +28,28 @@
 | [PassMark Software](https://www.passmark.com/) | [LED Benchmark](http://www.ledbenchmark.com/list.php?thumbnails) | ~400 | Photometric (incl. CRI, Flickering), Electric | 2012-2015 | 🇺🇸 | Discontinued |
 
 
-
-
 [1] _"From 1 January 2019, their registration must be completed before placing any product on the European market.
 Between 1 August 2017 and 31 December 2018, their registration had to be completed until 30 June 2019.
 Before 1 August 2017 and which are no longer marketed after this date, their registration is on a voluntary basis (at any time)."_
 
-[2] CALiPER LED product test reports for 2011-2014 are available as HTML pages here:
-
-https://www1.eere.energy.gov/buildings/ssl/caliper/SummaryReport.aspx?caliperID=14-01
+[2] CALiPER LED product test reports for 2011-2014 are available as HTML pages [here](https://www1.eere.energy.gov/buildings/ssl/caliper/SummaryReport.aspx?caliperID=14-01). The URL is formatted according to:
 
     ID=YEAR-ID
     YEAR format: 06-10
     ID format: 01-99 and 100-999
 
-CALiPER LED product test reports for 2011-2014 are available as HTML pages
-with a hyperlink to a PDF file here:
-
-https://www1.eere.energy.gov/buildings/ssl/caliper/SummaryReport.aspx?caliperID=14-01
+For 2011-2014 they are are available as HTML pages
+with a hyperlink to a PDF file [here](https://www1.eere.energy.gov/buildings/ssl/caliper/SummaryReport.aspx?caliperID=14-01). The URL is formatted according to:
 
     ID=YEAR-ID
     YEAR format: 11-16
     ID format: 01-99 and 100-999
 
-[3] Private communication
+### Policy Databases
+| Provider | Database | # of Products | Parameters | Date Range | Country | Comments |
+| -------- | -------- | ------------- | ---------- | ---------- | -------- | --------
+| [CLASP](https://clasp.ngo/) | [Policy Database
+](https://clasp.ngo/policies) | ~400 | Links to Policies, Dates, Categories | <2000-now | 🇺🇸 |  |
 
-| Michael Weinold <br> University of Cambridge <br> 2019-2020 |
-| --------------------------- |
+
+[3] Private communication
