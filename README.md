@@ -51,3 +51,9 @@ with a hyperlink to a PDF file [here](https://www1.eere.energy.gov/buildings/ssl
 | Provider | Database | # of Products | Parameters | Date Range | Country | Comments |
 | -------- | -------- | ------------- | ---------- | ---------- | -------- | --------
 | [CLASP](https://clasp.ngo/) | [Policy Database](https://clasp.ngo/policies) | ~400 | Links to Policies, Dates, Categories | <2000-now | 🇺🇸 |  |
+| [ACEEE](https://aceee.org/) | [Policy Database](https://database.aceee.org/) | 50+ | Description of Policies, Dates, Categories | <2000-now | 🇺🇸 |  |
+| [NewClimate Institute](https://newclimate.org/) | [Policy Database](http://climatepolicydatabase.org/index.php/Climate_Policy_Database) | ~4000 | Description of Policies, Dates, Categories | <2000-now | 🇩🇪 |  |
+| [North Carolina State University](https://nccleantech.ncsu.edu/about-us/) | [DSIRE Policy Database](https://www.dsireusa.org/) | ~4000 | Description of Policies, Dates, Categories | <2000-now | 🇺🇸 |  |
+| [Various EU Energy Agencies](https://www.odyssee-mure.eu/contact.html) | [MURE II Database](http://www.measures-odyssee-mure.eu/) | ??? | Description of Policies, Dates, Categories | <1980-now | 🇪🇺 |  |
+| [IEA](https://www.iea.org/reports/world-energy-model/policies-database) | [Policies and Measures Database](https://web.archive.org/web/20180811114025/http://www.iea.org/policiesandmeasures/energyefficiency/) | ??? | Description of Policies, Dates, Categories | <2000-now | 🌎 | Offline as of January 2020. Accessible through the Internet Archive. |
+| [IEA](https://www.iea.org/reports/world-energy-model/policies-database) | [Policies Database](https://www.iea.org/policies?sector=Buildings&page=2) | ~5500 | Description of Policies, Dates, Categories | 1951-now | 🌎 | Offline as of January 2020. Accessible through the Internet Archive. |
