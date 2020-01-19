@@ -14,6 +14,8 @@ List of databases on the performance and cost of LED chips and LED based luminai
 | [Kopp Glass](http://www.koppglass.com/) | [UV LED Product Database](http://go.koppglass.com/available-uv-leds-2017-0?submissionGuid=f498e77b-57d6-4974-8198-c46892a87d2a) | >700 | Photometric (incl. CRI), Electrical | ?-now | 🇺🇸 |  |
 | [LTI Optics](http://www.ltioptics.com/en/index.html) | [Photopia Lamp Database](http://www.ltioptics.com/en/library-lamps-details.html) | >700 | Photometric (incl. CRI), Electrical | 2012-now | 🇺🇸 |  |
 | [Johanne Roby](https://www.johanneroby.net/) et al. | [Lamp Spectral Power Distribution Database](http://galileo.graphycs.cegepsherbrooke.qc.ca/app/en/lamps?page=1) | 254 | Photometric (incl. CRI), Electrical | 2012-2016 | 🇨🇦 |  |
+| [Olino](http://www.olino.org/)| [Lamp Portal](http://www.olino.org/advice/us) | ~2500 | Photometric (incl. CRI), Electrical, Flickering | 2007-now | 🇳🇱 |  |
+
 
 #### Other relevant websites:
 
