@@ -16,6 +16,9 @@ List of databases on the performance and cost of LED chips and LED based luminai
 | [Johanne Roby](https://www.johanneroby.net/) et al. | [Lamp Spectral Power Distribution Database](http://galileo.graphycs.cegepsherbrooke.qc.ca/app/en/lamps?page=1) | 254 | Photometric (incl. CRI), Electrical | 2012-2016 | 🇨🇦 |  |
 | [Olino](http://www.olino.org/)| [Lamp Portal](http://www.olino.org/advice/us) | ~2500 | Photometric (incl. CRI), Electrical, Flickering | 2007-now | 🇳🇱 |  |
 | [Stiftung Warentest](https://www.test.de/)| [Lampen im Test](https://www.test.de/Lampen-im-Test-4436814-tabelle/suche/) | 125 (+50) | Photometric (incl. CRI), Electrical | 2008-now | 🇩🇪 | Older relevant magazine were provided by the support team as pdf files. |
+| [Digitalstrom](https://www.test.de/)| [Leuchtmitteldatenbank](https://www.digitalstrom.com/support/leuchtmitteldatenbank/) |  | Photometric (incl. CRI), some Electrical | ? | 🇩🇪 | Includes written assessment (in German) of light quality. |
+| [Dipl.-Ing. Peter "Lichtpeter" Erwin](https://www.derlichtpeter.de/)| [Leuchtmittel Markttest](https://www.derlichtpeter.de/de/lichtflimmern/markttests/) | ~1200 | Photometric (incl. CRI), some Electrical, Flickering | 2015-now | 🇩🇪 |  |
+
 
 
 #### Other relevant websites:
