@@ -60,6 +60,6 @@ with a hyperlink to a PDF file [here](https://www1.eere.energy.gov/buildings/ssl
 | [North Carolina State University](https://nccleantech.ncsu.edu/about-us/) | [DSIRE Policy Database](https://www.dsireusa.org/) | ~100 | Yes | <2000-now | 🇺🇸 | |
 | [ACEEE](https://aceee.org/) | [Policy Database](https://database.aceee.org/) | 50+ | No | <2000-now | 🇺🇸 |  |
 | [NewClimate Institute](https://newclimate.org/) | [Policy Database](http://climatepolicydatabase.org/index.php/Climate_Policy_Database) | ~4000 | No | <2000-now | 🇩🇪 |  |
-| [Enerdata](https://www.enerdata.net/) | [MURE II Database](http://www.measures-odyssee-mure.eu/) | ??? | Description of Policies, Dates, Categories | <1980-now | 🇪🇺 |  |
+| [Enerdata](https://www.enerdata.net/) | [MURE II Database](http://www.measures-odyssee-mure.eu/) | ??? | ??? | <1980-now | 🇪🇺 |  |
 | [IEA](https://www.iea.org/reports/world-energy-model/policies-database) | [Policies Database](https://www.iea.org/policies?sector=Buildings&page=2) | ~5500 | No | 1951-now | 🌎 | |
 | [IEA](https://www.iea.org/reports/world-energy-model/policies-database) | [Policies and Measures Database](https://web.archive.org/web/20180811114025/http://www.iea.org/policiesandmeasures/energyefficiency/) | ??? | No | <2000-now | 🌎 | Offline as of January 2020. Accessible through the Internet Archive. |
