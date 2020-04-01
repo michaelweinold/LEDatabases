@@ -53,6 +53,14 @@ with a hyperlink to a PDF file [here](https://www1.eere.energy.gov/buildings/ssl
 
 [3] Private communication
 
+### Flicker Databases
+| Provider | Database | Metrics | Equipment | Date Range | Country | Comments |
+| -------- | -------- | ------------- | ---------- | ---------- | -------- | --------
+| [Der Lichtpeter](https://www.derlichtpeter.de/en/light-flicker/) | [Der Lichtpeter Test Results](https://www.derlichtpeter.de/en/light-flicker/market-tests/) | ~1200 | [Own Production](https://www.derlichtpeter.de/de/lichtflimmern/cfd/) | 2015-now | 🇩🇪 | |
+| [PassMark Software](https://www.passmark.com/) | [LED Benchmark](http://www.ledbenchmark.com/list.php?thumbnails) | ~400 | Oscilloscope+Software | 2012-2015 | 🇺🇸 | Discontinued |
+| [OliNo](http://www.olino.org/advice/us/overview) | [OliNo Lamp Portal](http://www.olino.org/advice/us/overview/results?lamptype=bulb_all_around&target=consumer) | ~2000 | [Provided by Der Lichtpeter](https://www.derlichtpeter.de/de/lichtflimmern/cfd/) | ?-now | 🇪🇺 |  |
+
+
 ### Policy Databases
 | Provider | Database | # of Relevant Policies | Lighting Category | Date Range | Country | Comments |
 | -------- | -------- | ------------- | ---------- | ---------- | -------- | --------
