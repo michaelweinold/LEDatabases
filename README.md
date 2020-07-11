@@ -71,3 +71,8 @@ with a hyperlink to a PDF file [here](https://www1.eere.energy.gov/buildings/ssl
 | [Enerdata](https://www.enerdata.net/) | [MURE II Database](http://www.measures-odyssee-mure.eu/) | ??? | ??? | <1980-now | 🇪🇺 |  |
 | [IEA](https://www.iea.org/reports/world-energy-model/policies-database) | [Policies Database](https://www.iea.org/policies?sector=Buildings&page=2) | ~5500 | No | 1951-now | 🌎 | |
 | [IEA](https://www.iea.org/reports/world-energy-model/policies-database) | [Policies and Measures Database](https://web.archive.org/web/20180811114025/http://www.iea.org/policiesandmeasures/energyefficiency/) | ??? | No | <2000-now | 🌎 | Offline as of January 2020. Accessible through the Internet Archive. |
+
+### Fab Databases
+| Provider | Database | # of LED Fabs | Parameters | Date Range | Country | Comments |
+| -------- | -------- | ------------- | ---------- | ---------- | -------- | --------
+| [SEMI](http://www1.semi.org/en/) | [Opto/LED Fab Watch](http://www1.semi.org/en/optoled-fab-watch-overview-global-ledoptoelectronic-fabs-0) | ~120 | Capacity, Cleanroom Space, Cleanroom Class, etc. | now | 🇺🇸 | |
